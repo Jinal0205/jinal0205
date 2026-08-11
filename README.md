@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there, I'm Jinal Vala 👋</h1>
-<h3 align="center">Frontend / Full-Stack Developer building web experiences with TypeScript & React</h3>
+
+ <h1 align="center">Hi there, I'm Jinal Vala 👋</h1>
+<h3 align="center">Python Developer | Data Analytics, AI & Generative AI</h3>
 
 <p align="center">
   <a href="https://myprofile-9qgh4szgr-valajinal602-2554s-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live_Site-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -27,18 +28,33 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-- 🔭 Currently building **[my-profile / portfolio](https://jinalprofile.vercel.app)** and web apps for real businesses (like a restaurant ordering & support system)
-- 🌱 Sharpening my skills in **React, TypeScript, and modern web tooling (Vite)**
-- 💡 I enjoy turning real-world problems (like restaurant ordering & customer support) into clean, usable software
-- ⚡ Fun fact: I like building things end-to-end — UI, logic, and deployment
+- 🐍 I work primarily with **Python**, focused on data-driven and AI-powered projects
+- 🌱 Currently learning **Data Analytics, AI, and Generative AI** — building practical skills in analysis, modeling, and LLM-based tools
+- 📊 Interested in turning raw data into insights, and exploring how AI can solve real-world problems
+- 🌐 Also comfortable with web development (TypeScript/React) for building interfaces around my projects
+- ⚡ Fun fact: I like building things end-to-end — from data to model to deployment
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,html,css,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,pandas,numpy,git,github,vscode" />
 </p>
+
+**Also familiar with:** TypeScript, React, Vite, HTML/CSS, Node.js
+
+### 📚 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Data_Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+- 📊 **Data Analytics** — data cleaning, visualization, and drawing insights from datasets
+- 🤖 **AI** — core concepts, machine learning fundamentals, and applied use cases
+- ✨ **Generative AI** — prompt engineering, LLMs, and building AI-powered features into web apps
 
 ---
 
@@ -63,6 +79,16 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Jinal0205&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jinal-vala/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:valajinal602@gmail.com"><img src="https://img.shields.io/badge/Gmail-valajinal602%40gmail.com-red?style=flat&logo=gmail" /></a>
+  <a href="https://myprofile-9qgh4szgr-valajinal602-2554s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" /></a>
 </p>
 
 ---
