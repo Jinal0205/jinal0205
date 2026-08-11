@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h3 align="center">Frontend / Full-Stack Developer building web experiences with TypeScript & React</h3>
 
 <p align="center">
-  <a href="https://jinalprofile.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-jinalprofile.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://myprofile-9qgh4szgr-valajinal602-2554s-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live_Site-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jinal-vala/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:valajinal602@gmail.com"><img src="https://img.shields.io/badge/Email-valajinal602%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 
 | Project | Description | Tech |
 |---|---|---|
-| [mogalkrupa-restaurant](https://github.com/Jinal0205/mogalkrupa-restaurant) | Website for a Kathiyawadi restaurant | TypeScript |
+| [mogalkrupa-restaurant](https://github.com/Jinal0205/mogalkrupa-restaurant) | Website for a Kathiyawadi restaurant — [live demo](https://mogalkruparestaurant.vercel.app/) | TypeScript |
 | [customer-support-for-restaurant](https://github.com/Jinal0205/customer-support-for-restaurant) | Customer support system for restaurants | — |
-| [myprofile](https://github.com/Jinal0205/myprofile) | Personal portfolio site — [live demo](https://jinalprofile.vercel.app) | TypeScript |
+| [myprofile](https://github.com/Jinal0205/myprofile) | Personal portfolio site — [live demo](https://myprofile-9qgh4szgr-valajinal602-2554s-projects.vercel.app/) | TypeScript |
 
 > Tip: replace the `—` above and add 1–2 line descriptions to every repo (see checklist below) so this table stays accurate.
 
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
-  <a href="https://jinalprofile.vercel.app"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" /></a>
+  <a href="https://www.linkedin.com/in/jinal-vala/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:valajinal602@gmail.com"><img src="https://img.shields.io/badge/Gmail-valajinal602%40gmail.com-red?style=flat&logo=gmail" /></a>
+  <a href="https://myprofile-9qgh4szgr-valajinal602-2554s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" /></a>
 </p>
